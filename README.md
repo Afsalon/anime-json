@@ -5,5 +5,7 @@ json for react
 
 ![cloudy](https://github.com/Afsalon/anime-json/assets/68525687/c3b619be-ab1b-4972-b29f-d05d90534282)
 ![hist1](https://github.com/Afsalon/anime-json/assets/68525687/c2dd972f-0c7f-4452-8909-bedb21d7fe7c)
-![Uploading crows.png…]()
 
+![LAlogo](https://github.com/Afsalon/anime-json/assets/68525687/43ac97fd-dda9-4c02-999b-d319af7539e2)
+![navbar-logo](https://github.com/Afsalon/anime-json/assets/68525687/db313d9a-aab2-4307-b32c-980b7a370e8c)
+![hist2](https://github.com/Afsalon/anime-json/assets/68525687/5ab4dd90-fda9-4acc-909f-d74112930d18)
